@@ -16,3 +16,5 @@ You can install it with the command:
 
 sudo apt install python3.10
 
+This program uses the GGUF format model file llama-2-7b.Q4_K_M.gguf, which needs to be installed within this project.
+This model can be found here: https://huggingface.co/TheBloke/Llama-2-7B-GGUF/tree/main
